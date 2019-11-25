@@ -1,2 +1,4 @@
-# programming-technique-project
-A project for our Programming Technique class.
+# Programming Technique Project
+## A project for our Programming Technique class.
+
+Language used: C++
